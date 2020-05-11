@@ -1,0 +1,145 @@
+[{
+    "count": 12,
+    "female": 7,
+    "male": 5,
+    "time": "1:00"
+  },
+  {
+    "count": 24,
+    "female": 10,
+    "male": 14,
+    "time": "2:00"
+  },
+  {
+    "count": 32,
+    "female": 5,
+    "male": 27,
+    "time": "3:00"
+  },
+  {
+    "count": 44,
+    "female": 25,
+    "male": 19,
+    "time": "4:00"
+  },
+  {
+    "count": 69,
+    "female": 31,
+    "male": 38,
+    "time": "5:00"
+  },
+  {
+    "count": 644,
+    "female": 332,
+    "male": 312,
+    "time": "6:00"
+  },
+  {
+    "count": 788,
+    "female": 394,
+    "male": 394,
+    "time": "7:00"
+  },
+  {
+    "count": 763,
+    "female": 332,
+    "male": 431,
+    "time": "8:00"
+  },
+  {
+    "count": 651,
+    "female": 261,
+    "male": 390,
+    "time": "9:00"
+  },
+  {
+    "count": 568,
+    "female": 275,
+    "male": 293,
+    "time": "10:00"
+  },
+  {
+    "count": 827,
+    "female": 471,
+    "male": 356,
+    "time": "11:00"
+  },
+  {
+    "count": 886,
+    "female": 414,
+    "male": 472,
+    "time": "12:00"
+  },
+  {
+    "count": 907,
+    "female": 482,
+    "male": 425,
+    "time": "13:00"
+  },
+  {
+    "count": 639,
+    "female": 309,
+    "male": 330,
+    "time": "14:00"
+  },
+  {
+    "count": 874,
+    "female": 419,
+    "male": 455,
+    "time": "15:00"
+  },
+  {
+    "count": 900,
+    "female": 498,
+    "male": 402,
+    "time": "16:00"
+  },
+  {
+    "count": 1032,
+    "female": 504,
+    "male": 528,
+    "time": "17:00"
+  },
+  {
+    "count": 1302,
+    "female": 622,
+    "male": 680,
+    "time": "18:00"
+  },
+  {
+    "count": 1048,
+    "female": 520,
+    "male": 528,
+    "time": "19:00"
+  },
+  {
+    "count": 654,
+    "female": 350,
+    "male": 304,
+    "time": "20:00"
+  },
+  {
+    "count": 436,
+    "female": 159,
+    "male": 277,
+    "time": "21:00"
+  },
+  {
+    "count": 221,
+    "female": 119,
+    "male": 102,
+    "time": "22:00"
+  },
+  {
+    "count": 113,
+    "female": 48,
+    "male": 65,
+    "time": "23:00"
+  },
+  {
+    "count": 24,
+    "female": 7,
+    "male": 17,
+    "time": "0:00"
+  }
+]
